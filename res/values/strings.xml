@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Estudiantes</string>
+    <string name="title">Estudiantes</string>
+    <string name="roll_no">Código: </string>
+    <string name="name">Nombre: </string>
+    <string name="marks">Calificación: </string>
+    <string name="add">Agregar</string>
+    <string name="delete">Eliminar</string>
+    <string name="modify">Editar</string>
+    <string name="view">Ver</string>
+    <string name="view_all">Ver todos</string>
+</resources>
